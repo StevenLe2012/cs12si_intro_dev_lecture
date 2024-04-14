@@ -7,6 +7,8 @@
 
 import Foundation
 
+// Swift Cheat Sheet: https://koenig-media.raywenderlich.com/uploads/2020/12/RW-Swift-5.1-Cheatsheet-1.0.pdf
+
 func learningVariables() {
     // How to set constants (calues can't be changed)
     print("\nLearning Variables")

@@ -15,7 +15,7 @@ struct MyContentView: View {
         VStack {
             Text("Counter: \(counter)")
 //                .font(.system(size: 45)) // Sets the font size to 45
-                .font(.title)
+//                .font(.title)
 //                .foregroundColor(.red) // Changawdses the text color to blue
 //                .background(.blue) // Sets the background color to yellow
 //                .fontWeight(.bold) // Makes the text bold
